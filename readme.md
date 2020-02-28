@@ -2,7 +2,7 @@
 
 This is an open source of Content Management System developed with [Laravel](http://laravel.com/) framework.
 
-![Screen](https://raw.githubusercontent.com/dmazlum/laravel-cms/images/laravel-cms.jpg)
+![](images/laravel-cms.jpg)
 
 ## Installing dependencies
 
